@@ -20,9 +20,6 @@ This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)
 * [React](https://reactjs.org/)
-* [NextJs](https://nextjs.org/)
-* [Styled Components](https://styled-components.com/)
-
 
 # :computer: How to run
 
